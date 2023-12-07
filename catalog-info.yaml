@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: cookiecutter
+  annotations:
+    github.com/project-slug: theabhishekdhingra/cookiecutter
+spec:
+  type: other
+  lifecycle: unknown
+  owner: Enterprise_Group
